@@ -1,0 +1,10 @@
+.databricks/
+.DS_Store
+build/
+dist/
+__pycache__/
+*.egg-info
+.venv/
+scratch/**
+!scratch/README.md
+.vscode
